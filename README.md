@@ -75,7 +75,9 @@ El código completo está en `main.cpp`. Algunas funciones clave:
 
 ## 📷 Imágenes / Videos
 
-> \[]
+![Robot armado 1](Pictures/Img1.jpeg)
+![Robot armado 2](Pictures/Img1.jpeg)
+![Robot armado 3](Pictures/Img1.jpeg)
 
 ---
 
