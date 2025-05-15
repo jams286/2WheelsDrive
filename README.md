@@ -74,7 +74,7 @@ El código completo está en `main.cpp`. Algunas funciones clave:
 ---
 
 ## 📷 Imágenes / Videos
-[![Funcionamiento](https://img.youtube.com/vi/KZ0EgFizKB4/0.jpg)](https://www.youtube.com/watch?v=KZ0EgFizKB4)
+[![Funcionamiento](https://www.youtube.com/watch?v=KZ0EgFizKB4&ab_channel=JaimeTorres)
 
 ![Robot armado 1](Pictures/Img1.jpeg)
 ![Robot armado 2](Pictures/Img2.jpeg)
