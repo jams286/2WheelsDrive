@@ -82,11 +82,23 @@ El código completo está en `main.cpp`. Algunas funciones clave:
 
 ---
 
+## 🧠 Lecciones aprendidas y decisiones técnicas
+* Se eligió un diseño de dos ruedas motrices por su simplicidad mecánica, eficiencia energética y buena maniobrabilidad en interiores.
+* Se usó un control PS4 por ser inalámbrico, ergonómico y ampliamente soportado.
+* Se resolvió un problema de inversión en el giro implementando lógica condicional diferenciada para el movimiento detenido y en marcha.
+* Para una futura versión se consideraría una batería LiPo con mayor salida de corriente y control por app móvil.
+
+---
+
 ## 💡 Próximas mejoras
 
-* Mejorar el chasis
-* Utilizar una sola fuente de energia y evitar el uso de powerbank + Baterias
-* Mejoras en codigo para casos donde se pierde la conexion con el control
+* Mejoras en el chasis.
+* Para una futura versión se consideraría una batería LiPo con mayor salida de corriente.
+* Mejoras en codigo para casos donde se pierde la conexion con el control.
+* Cambiar a un driver más eficiente como el TB6612FNG para reducir pérdida de potencia y temperatura.
+* Agregar sensores ultrasónicos o de proximidad para detección de obstáculos.
+* Implementar una app móvil o interfaz web para control vía WiFi.
+* Incorporar retroalimentación de velocidad con encoders para control más preciso.
 
 ---
 
